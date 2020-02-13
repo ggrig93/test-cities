@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Yerevan",
+    "temperature": "5",
+    "wind": "5–7, Западный",
+    "pressure": "988"
+  },
+  {
+    "id": 2,
+    "name": "Paris",
+    "temperature": "5",
+    "wind": "5–7, Западный",
+    "pressure": "992"
+  },
+  {
+    "id": 3,
+    "name": "Augsburg",
+    "temperature": "5",
+    "wind": "5–7, Западный",
+    "pressure": "987"
+  },
+  {
+    "id": 4,
+    "name": "Vienna",
+    "temperature": "5",
+    "wind": "5–7, Западный",
+    "pressure": "989"
+  },
+  {
+    "id": 5,
+    "name": "Tallinn",
+    "temperature": "5",
+    "wind": "5–7, Западный",
+    "pressure": "990"
+  },
+  {
+    "id": 6,
+    "name": "Dublin",
+    "temperature": "5",
+    "wind": "5–7, Западный",
+    "pressure": "992"
+  }
+]
